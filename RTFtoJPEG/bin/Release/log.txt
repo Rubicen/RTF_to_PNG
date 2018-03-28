@@ -1,0 +1,60 @@
+
+Log Entry : 10:33:43 a.m. Friday, 6 October 2017
+  :
+  :STARTING
+-------------------------------
+
+Log Entry : 10:33:48 a.m. Friday, 6 October 2017
+  :
+  :The given path's format is not supported.
+-------------------------------
+
+Log Entry : 10:33:49 a.m. Friday, 6 October 2017
+  :
+  :20170914_0001_Comments.rtf
+-------------------------------
+
+Log Entry : 10:33:50 a.m. Friday, 6 October 2017
+  :
+  :192.168.123.19:C:\Program Files (x86)\Ostendo\Database\Brunetti\BrunettiLive.fdb\20170914_0001_Comments.rtf
+-------------------------------
+
+Log Entry : 10:13:34 a.m. Monday, 16 October 2017
+  :
+  :The UNC path should be of the form \\server\share.
+-------------------------------
+
+Log Entry : 10:13:34 a.m. Monday, 16 October 2017
+  :
+  :20170914_0001_Comments.rtf
+-------------------------------
+
+Log Entry : 10:13:35 a.m. Monday, 16 October 2017
+  :
+  :\\192.168.123.19\C$\Program Files (x86)\Ostendo\Applications\OrderForm\RTF\20170914_0001_Comments.rtf
+-------------------------------
+
+Log Entry : 10:14:41 a.m. Monday, 16 October 2017
+  :
+  :The UNC path should be of the form \\server\share.
+-------------------------------
+
+Log Entry : 10:14:41 a.m. Monday, 16 October 2017
+  :
+  :20170914_0001_Comments.rtf
+-------------------------------
+
+Log Entry : 10:14:42 a.m. Monday, 16 October 2017
+  :
+  :\\192.168.123.19\C$\Program Files (x86)\Ostendo\Applications\OrderForm\RTF\20170914_0001_Comments.rtf
+-------------------------------
+
+Log Entry : 10:15:14 a.m. Monday, 16 October 2017
+  :
+  :The UNC path should be of the form \\server\share.
+-------------------------------
+
+Log Entry : 10:16:01 a.m. Monday, 16 October 2017
+  :
+  :The UNC path should be of the form \\server\share.
+-------------------------------
